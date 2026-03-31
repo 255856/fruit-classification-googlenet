@@ -1,0 +1,2 @@
+# fruit-classification-googlenet
+基于Pytorch框架搭建的GoogLeNet网络对水果的识别
